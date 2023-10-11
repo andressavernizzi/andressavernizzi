@@ -25,4 +25,6 @@ Software Developer | Java | C# | Net | Javascript | OOP | CSS | HTML | React.js 
 
 ##
 
-![Snake animation](https://github.com/andressavernizzi/andressavernizzi/blob/output/github-contribution-grid-snake.svg)
+<div>
+  <img align="center" alt="andressa-matrixx" src= "https://i.pinimg.com/originals/c5/9a/d2/c59ad2bd4ad2fbacd04017debc679ddb.gif">
+</div>
